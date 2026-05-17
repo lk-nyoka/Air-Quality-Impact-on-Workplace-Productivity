@@ -277,5 +277,5 @@ if st.button("Predict Productivity & Air Quality Risk", type="primary"):
 
 # Footer
 st.markdown("---")
-st.markdown("Built with Python and Streamlit — aligned with AirSynQ Systems IoT monitoring platform.")
+st.markdown("Built with Python and Streamlit.")
 st.markdown("*In production, sensor readings would be pulled live from IoT devices via API.*")
