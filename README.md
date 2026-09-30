@@ -154,4 +154,4 @@ Air-Quality-Productivity/
 Aspiring ML Engineer — Incoming Electrical & Electronic Engineer 
 at AirSynQ Systems
 [GitHub](https://github.com/lk-nyoka) · 
-[LinkedIn](https://linkedin.com/in/lindokuhle-nyoka-982019245)
+[LinkedIn](https://linkedin.com/in/lindokuhle-nyoka-a5b737413)
